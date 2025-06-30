@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url(img/2851f4877c7eaa6f13c9dc1008a7b75a.jpg);
     font-family: Bai Jamjuree;
 }
 
@@ -72,16 +72,6 @@ body {
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
 }
-
-
-
-
-
-
-
-
-
-
 
 
 footer {
